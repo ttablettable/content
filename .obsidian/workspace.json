@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b0467536e9061421",
+    "type": "split",
+    "children": [
+      {
+        "id": "67d8b56b2c280f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9242d0d5852e5c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/moment-on-the-move.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "moment-on-the-move"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "913b3d51a11e6207",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3f804815923905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd40e03963a805c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "236da6afca16f8b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2a90d86b6e52092f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0336c9619a387e52",
+    "type": "split",
+    "children": [
+      {
+        "id": "ead89fadbdc864b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2143ad15e180bb0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "archive/moment-on-the-move.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for moment-on-the-move"
+            }
+          },
+          {
+            "id": "601f00b9742c65c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "archive/moment-on-the-move.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from moment-on-the-move"
+            }
+          },
+          {
+            "id": "ca9b8b6982701299",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8bfda0d728bd7e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "archive/moment-on-the-move.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of moment-on-the-move"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9242d0d5852e5c92",
+  "lastOpenFiles": [
+    "archive/not-thrown-together.md",
+    "archive/objects-about-something.md",
+    "archive/photographs-of-rodolfo-diaz.md",
+    "archive/preface-009.md",
+    "archive/see-sza-run.md",
+    "archive/sexuality-minus-the-stigma.md",
+    "archive/slow-mantled-love-conversation.md",
+    "archive/soft-in-the-head.md",
+    "archive/the-big-easy.md",
+    "archive/the-new-democracy-of-online-self-expression.md",
+    "archive/we-might-call-it-reality.md",
+    "archive/young-and-restless.md",
+    "archive/moment-on-the-move.md",
+    "archive/method-tatyana-fazlalizadeh.md",
+    "archive/method-laura-sly.md",
+    "archive/making-it-how-the-pursuit-of-a-label-is-no-longer-relevant-to-longevity-and-success.md",
+    "archive/it-drips-an-interview-with-anna-barlow.md",
+    "archive/hue-fuzzy-wuzzy.md",
+    "archive/has-the-internet-changed-music-for-the-better.md",
+    "archive/get-the-queen-what-she-wants.md",
+    "archive/films-future-or-lack-thereof.md",
+    "archive/essentials-nicole-loher.md",
+    "archive/essentials-lucas-condon.md",
+    "archive/essentials-anarch.md",
+    "archive/constantly-on-a-journey.md",
+    "archive/bawdy-stitchery-an-interview-with-alaina-varrone.md"
+  ]
+}
