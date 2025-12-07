@@ -8,7 +8,7 @@ author(s):
   - brian-felix
 published: 2014-11-21
 ZID: 20241117194244
-key-image:
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/617b2cf12f1b210678902323_20141119--009-feature--zoe-ligon--002-low-res.png
 ---
 
 <p>Taboos are thoroughly explored in Brooklyn-based artist Zoe Ligon's collages, which seek to blur the boundaries of sexuality for the rest of society. She began creating collages four years ago and today has an impressive portfolio of works which are sexual and visually challenging in content as well as aesthetically pleasing in execution.</p><figure class="w-richtext-figure-type-image w-richtext-align-center" data-rt-type="image" data-rt-align="center"><div><img src="https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/61ae9521ca359c2181acb331_upload-ec9d8b60-88c9-11e5-a2ca-85d727eae4a7.jpg" loading="lazy" width="auto" height="auto"></div></figure><p>One of the greatest things about collaging is the pleasure of shredding something into pieces and putting it back together again, completely transformed. Her ability to alter the value or meaning of an image or object by adding or subtracting elements is thoughtful to the point of spiritual. "My creativity is like a virus that lies dormant in the body and then pops up to say hello in varying degrees of intensity, but can be coaxed out if I need it and it can [influence]other people."</p>

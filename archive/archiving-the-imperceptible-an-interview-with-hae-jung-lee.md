@@ -8,7 +8,7 @@ author(s):
   - rachel-fagiano
 published:
 ZID: 20241117194211
-key-image:
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/617b28acaea8b779ee2b8338_upload-583b2e90-4090-11e5-81f7-df37b5d4bf29.jpg
 ---
 
 <p>Toronto-based Hae Jung Lee creates intricately rendered drawings as a way to obsessively document and archive her fleeting inner thoughts. Beautifully drawn and a little bit eerie, her pieces have been striking a chord with a lot of people lately, including the folks at <em>Booooooom!</em> and <em>Hi Fructose</em>—a wonderful thing for a newly minted graduate. We recently had the opportunity to talk to her about her practice and the role of pleasure in her work:</p>

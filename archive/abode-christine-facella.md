@@ -8,7 +8,7 @@ author(s):
   - rachel-fagiano
 published:
 ZID: 20241117194208
-key-image:
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5ffe385b42eb30e516fbe910_20141117--009-column-abode--christine-facella--web--002.jpg
 ---
 
 <p>Christina Facella began her career as a science illustrator for the Museum of Natural History in New York. In 2007, after several years of traveling in South America and Asia, she left her position at the museum to found Beetle &amp; Flor—an interior accessories company. The profits from Christine’s beautiful, hand-cast, porcelain, and gold objects go towards funding her real passion—providing free and low-cost design services to underserved artisan communities in order to help them bring their products to the global market. Since Christine undoubtedly knows good object design, we were excited to see how this would translate to her personal living space:</p>
