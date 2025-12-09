@@ -23,4 +23,4 @@ key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5f773def4ce6
 <figure><div><img src="https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5ff51a28e4f382913b9c8268_essentials--nicole-loher-08.png" loading="lazy"></div></figure>
 <figure><div><img src="https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5ff51a339ab0e090f298f5ca_essentials--nicole-loher-09.png" loading="lazy"></div></figure>
 </div>
-<p>1. YSL’s Top Secrets All-In-One BB Cream 2. Theo’s Pure 85% Dark Chocolate 3. Nike Free 5.0+ in Black 4. Juice Press Coffee with Black Label 5. Satomi Kawakita Hexagon Ring with a white diamond (available at Catbird) 6. Beyonce &amp; Jay-Z 7. The Walking Dead 8. pineapples (obsessed with them. vintage &amp; botanical sketches!), and 9. Positano, Italy.</p><p>*</p>
+<p>1. YSL’s Top Secrets All-In-One BB Cream 2. Theo’s Pure 85% Dark Chocolate 3. Nike Free 5.0+ in Black 4. Juice Press Coffee with Black Label 5. Satomi Kawakita Hexagon Ring with a white diamond (available at Catbird) 6. Beyonce &amp; Jay-Z 7. The Walking Dead 8. pineapples (obsessed with them. vintage &amp; botanical sketches!), and 9. Positano, Italy. ...†</p>
