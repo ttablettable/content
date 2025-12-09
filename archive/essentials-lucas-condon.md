@@ -6,9 +6,9 @@ channel: column
 featured: false
 author(s):
   - anne-berlin
-published: 
+published: 2015-05-14
 ZID: 20241117194218
-key-image: 
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe1a7d6278ff3d29b403881_image1.JPG
 ---
 
 <p>Lucas Condon has an appreciation for the finer things in life. As men’s fashion has become more prominent in recent years, he is helping lead the way into an burgeoning marketplace. Condon works for the Merchandising and Marketing Department at Birchbox, one of the fastest growing online companies around. Birchbox is a business that sends its monthly subscribers boxes of goodies tailored to fit their needs and habits. For women this could be makeup, skincare, hair products, or even healthy snacks. In the boxes for men they receive skin and hair products as well as accessories that are thought to suit them best. Condon’s main focus is on the Men’s division, as it has become more and more apparent that they are in need of just as many options as women. Lucas Condon has agreed to share the everyday Essentials he has discovered while working at this blossoming company.</p>

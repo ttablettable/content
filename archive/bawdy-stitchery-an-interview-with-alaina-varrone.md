@@ -6,7 +6,7 @@ channel: interview
 featured: false
 author(s):
   - rachel-fagiano
-published:
+published: 2015-05-13
 ZID: 20241117194213
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe1a99cb8ceb478a90c7439_pool%20girls.JPG
 ---

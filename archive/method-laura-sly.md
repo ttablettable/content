@@ -6,9 +6,9 @@ channel: column
 featured: false
 author(s):
   - brandon-reis
-published: 
+published: 2014-07-08
 ZID: 20241117194234
-key-image: 
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe19b916b541d999a2ee33e_laurasly_rgb%20copy.jpg
 ---
 
 <p>Nestled comfortably in her one-bedroom apartment off of Walnut Street in Montclair, with an icy Amstel Light in one hand and her trusty canine sidekick Pixel in the other, is Laura Sly: founder and Creative Director of Double Stop Designs.</p>

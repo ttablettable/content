@@ -5,7 +5,7 @@ issue: discovery
 channel: idea
 featured: false
 author(s): karl
-published: 
+published: 2013-03-22
 ZID: 20241117194225
 key-image: 
 ---

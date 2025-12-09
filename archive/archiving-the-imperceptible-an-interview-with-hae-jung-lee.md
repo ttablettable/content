@@ -6,7 +6,7 @@ channel: interview
 featured: false
 author(s):
   - rachel-fagiano
-published:
+published: 2015-05-13
 ZID: 20241117194211
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/617b28acaea8b779ee2b8338_upload-583b2e90-4090-11e5-81f7-df37b5d4bf29.jpg
 ---

@@ -6,9 +6,9 @@ channel: interview
 featured: false
 author(s):
   - emanuele-calianno
-published: 
+published: 2015-07-08
 ZID: 20241117194216
-key-image:
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe19ac88f19d97aa6488c88_549940_368197116547517_161576032_n.jpg
 ---
 
 <p>Aways Away is a four-piece alternative rock outfit hailing from Bergen County, New Jersey. The sound they’re hoping to make impact with is as unique as it is obvious. With a musical upbringing in the shadows of New York’s club scene, the band mixes the most conventional foundations of rock ‘n’ roll with the tone of alternative acts such as The Pixies, Jesus and the Mary Chain, Public Image Ltd, The Strokes, Television, and the like. Sitting down with frontman/guitarist and main songwriter Evan DeAgustinis, we look at the experiences and aspirations of a band striving to make it among a million challenges.</p>

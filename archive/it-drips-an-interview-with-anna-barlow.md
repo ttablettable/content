@@ -6,7 +6,7 @@ channel: interview
 featured: false
 author(s):
   - brandon-reis
-published: 
+published: 2015-05-30
 ZID: 20241117194231
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe1a93239d0917c63146390_Anna%20Barlow%20-%20I%27ll%20Bring%20You%20Everything.jpg
 ---

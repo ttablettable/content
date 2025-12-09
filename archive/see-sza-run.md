@@ -6,9 +6,9 @@ channel: idea
 featured: false
 author(s):
   - anne-berlin
-published: 
+published: 2013-01-07
 ZID: 20241117194243
-key-image: 
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5f528d05ad6d406931ad1160_SZA.jpg
 ---
 
 <p>When it comes to trying to find new incredible music it can be hit or miss and sadly many times it is a complete miss. This is a gross falsity when I was trying to find something new and stumbled upon the song “Bed” by SZA. I instantly fell in love with her whispered lyrics as well as the simplicity and intensity of her beats. Listening to this song is like listening to a less synthesized more mature Imogen Heap or Frou Frou. </p>

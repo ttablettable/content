@@ -5,7 +5,7 @@ issue: dedication
 channel: interview
 featured: true
 author(s): brian-felix
-published:
+published: 2014-07-13
 ZID: 20241117194258
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5ffcfc757cae04e01456d36d_96800021.jpg
 ---

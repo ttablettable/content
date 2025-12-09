@@ -6,7 +6,7 @@ channel: column
 featured: true
 author(s):
   - rachel-fagiano
-published: 
+published: 2015-05-30
 ZID: 20241117194235
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5ffe37c7cc3f65222f27050a_20141215--009-method--tatyana-fazlalizadeh-low--001.jpg
 ---

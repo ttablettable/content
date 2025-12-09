@@ -6,9 +6,9 @@ channel: idea
 featured: false
 author(s):
   - joseph-cirilo
-published: 
+published: 2015-01-25
 ZID: 20241117194233
-key-image: 
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe199f46b541ddbb12ede8a_image-asset.jpeg
 ---
 
 <p>For many artists, “making it” is the validation of their life’s work. Finally moving up from smokey bars to big stadiums, having their music promoted on the radio, and above all, having that record label tied to their name gives them the sense that they’ve finally gotten to the peak of their career, or at least achieved a milestone in their pursuit of success.</p>

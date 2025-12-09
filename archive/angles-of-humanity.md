@@ -6,9 +6,9 @@ channel: interview
 featured: false
 author(s):
   - joseph-cirilo
-published:
+published: 2014-07-03
 ZID: 20241117194210
-key-image:
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe19a43ccdc3affb1463811_969980_264400340368166_375283963_n.jpg
 ---
 
 <p>Deep in the heart of Kearny, NJ lies a young artist looking to pursue her dreams purely for the love of it. Too few characters in the world today are on the pursuit of true happiness, and extinguish who they are for the limelight and dollar bills. Even fewer have the gusto chase something not economically stable upfront, and suffer the rain in favor of a happy existence.</p>

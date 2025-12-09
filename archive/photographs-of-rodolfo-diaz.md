@@ -5,7 +5,7 @@ issue: transition
 channel: feature
 featured: false
 author(s): brian-felix
-published: 
+published: 2014-03-01
 ZID: 20241117194241
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/617b2fc0d19af5613aa71257_image.jpeg
 ---

@@ -6,7 +6,7 @@ channel: interview
 featured: false
 author(s):
   - brian-felix
-published: 
+published: 2014-07-10
 ZID: 20241117194240
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe198831a9717203ad9e7b2_akzidenz-adrem024.jpg
 ---

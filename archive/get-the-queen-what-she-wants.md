@@ -5,7 +5,7 @@ issue: pleasure
 channel: idea
 featured: true
 author(s): brian-felix
-published: 
+published: 2015-04-01
 ZID: 20241117194224
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe1a706b3c0000b3b036a26_2012_queen_of_versailles_001.jpg
 ---

@@ -6,9 +6,9 @@ channel: idea
 featured: false
 author(s):
   - brandon-reis
-published: 
+published: 2015-03-21
 ZID: 20241117194222
-key-image:
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/619567c2891a3945798b9995_thumbs_films-future-or-lackthereof.png
 ---
 
 <p>I went to see “The Perks of Being a Wallflower” last night at Cinema Arts Centre, a local Long Island theater. It was great. Considering the book had a profound impact on me in 8th grade, I had been awaiting the film version for many years, anticipating how they’d portray Sam. Luckily, Emma Watson was the prime choice for the role. She’s without a doubt one of the most attractive women in movies right now, next to Anna Paquin. She’s beautiful. But anyway, aside from the fact that the movie held up to my expectations and it took me back to an adolescent understanding of friends and sex and school, something alarming was brought to my attention in that theater.</p>

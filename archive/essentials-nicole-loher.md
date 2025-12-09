@@ -6,9 +6,9 @@ channel: column
 featured: false
 author(s):
   - brian-felix
-published: 
+published: 2014-06-26
 ZID: 20241117194220
-key-image: 
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5f773def4ce621bba3bfeffc_essentials--nicole-loher--self--01.jpg
 ---
 
 <p>Nicole Loher is a dedicated and elegant fashion blogger. Her blog, “The Style Student” has evolved into a staple resource for fashion, personal, and health advice for her readers. Nicole has become an excellent role model by documenting her perseverance through the Fashion Institute of Technology to landing her current job at Nannete Lepore. Today, Nicole shares her elegance with us in her installation of our essentials series.</p>

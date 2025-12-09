@@ -6,7 +6,7 @@ channel: idea
 featured: false
 author(s):
   - joseph-cirilo
-published: 
+published: 2015-01-25
 ZID: 20241117194239
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe199548947ca6a6198f4ee_1271748_10151395930132168_782310235_o.jpg
 ---

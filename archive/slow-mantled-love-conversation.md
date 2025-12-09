@@ -6,9 +6,9 @@ channel: column
 featured: false
 author(s):
   - emanuele-calianno
-published: 
+published: 2014-06-11
 ZID: 20241117194246
-key-image: 
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5f529a4c755d6a1a256bb943_slow-mantled-conversation.png
 ---
 
 <p>An unassuming trio from London, Ontario, Snow Mantled Love describes their music as “bedroom pop,” and it is easy to see why. Resonant production, perfectly blended guitar and keyboards, and the stunning delivery of vocalist Danielle Fricke make for some of the dreamiest indie in the scene.</p>

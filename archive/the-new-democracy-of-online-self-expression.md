@@ -5,9 +5,9 @@ issue: discovery
 channel: idea
 featured: false
 author(s): doron-heifetz
-published: 
+published: 2013-02-12
 ZID: 20241117194250
-key-image: 
+key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/619567ffe130cd3edf8b3f2a_thumbs_the-new-democracy-of-online-self-expression.png
 ---
 
 <p>When I tell people how excited I am about the new world of popular jewelry websites and how I think it can lead to a whole new way for people to express themselves creatively, they normally think I'm either biased or crazy. But the truth is, some of the simplest do it yourself jewelry websites, websites that allow you to choose from various designs and materials to create your own individual piece, may be heralding the arrival of a new era for creative design.</p>

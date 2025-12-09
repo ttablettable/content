@@ -5,7 +5,7 @@ issue: pleasure
 channel: interview
 featured: true
 author(s): brandon-reis
-published: 
+published: 2015-03-15
 ZID: 20241117194256
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5fe1a5d2716aa838ecdf1ee1_image-3.jpeg
 ---

@@ -5,7 +5,7 @@ issue: perspective
 channel: idea
 featured: false
 author(s): brandon-reis
-published: 
+published: 2015-05-30
 ZID: 20241117194247
 key-image: https://uploads-ssl.webflow.com/5e6e2ede2a9bce0e9ebc1a4e/5ffcfef953b7aa122cefc887_SOFT-IN-THE-HEAD-SCREEN-GRAB.jpg
 ---
